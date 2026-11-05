@@ -36,6 +36,16 @@ body{
     cursor: pointer;
 }
 
+#li:hover{
+    text-decoration: none;
+    color: #f3d307;
+    font-size: 18px;
+    margin-right: 15px;
+    text-align: center;
+    padding-top: 25px;
+    cursor: pointer;
+}
+
 .li1{
     margin-left: 17%;
 }
